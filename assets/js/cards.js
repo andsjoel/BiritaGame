@@ -1,21 +1,21 @@
 const cards = [
     {
-      title: 'Mochilão',
-      task: 'Quem não viajou pra Europa beba'
+    title: 'Mochilão',
+    task: 'Quem já saiu do Brasil beba para comemorar.',
+    doses: '1'
     },
     {
-      title: 'Clone',
-      task: 'Escolha alguém para fazer tudo que você fizer durante 3 rodadas'
+    title: 'Banheirão',
+    task: 'Leve alguém para o banheiro. Agora para o que...... ',
+    doses: '4'
     }, 
     {
-      title: 'Banheirão',
-      task: 'Leve alguém para o banheiro'
+    title: 'Admirador',
+    task: 'Escolha uma pessoa que deverá ficar em pé e usar uma venda. Qualquer pessoa poderá dar um selinho nela.',
+    doses: ''
     }
   
   ]
   
   
   
-  
-  
-  let array = [4, 8, 10]
