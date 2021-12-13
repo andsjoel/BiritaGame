@@ -111,10 +111,13 @@ span:last-child {
 .rules {
   width: 260px;
   height: 280px;
-  background: linear-gradient(#3c6bb3,#d40075);
+  background: linear-gradient(#3c6cb370,#d400757a);
   border-radius: 20px 20px 0 0;
   font-weight: bold;
-  box-shadow: 0.05em 0.08em 0 rgb(102, 182, 204);
+  /* box-shadow: 0.05em 0.18em 0 rgb(1, 8, 32); */
+  border-left: 4px solid rgb(102, 182, 204);
+  border-top: 4px solid rgb(102, 182, 204);
+  border-right: 4px solid rgb(102, 182, 204);
 }
 
 .rules h4 {
@@ -134,9 +137,9 @@ span:last-child {
 }
 
 #getRandomCard {
-  width: 260px;
-  height: 35px;
-  background: #d40075;
+  width: 268px;
+  height: 45px;
+  background: #d400757a;
   font-family: 'Bebas Neue';
   font-size: 22px;
   display: flex;
@@ -146,7 +149,10 @@ span:last-child {
   color: rgb(165, 217, 247);
   border-radius: 0 0 20px 20px;
   font-weight: bold;
-  box-shadow: 0.05em 0.08em 0 rgb(102, 182, 204);
+  /* box-shadow: 0.05em 0.18em 0 rgb(1, 8, 32); */
+  border-left: 4px solid rgb(102, 182, 204);
+  border-bottom: 4px solid rgb(102, 182, 204);
+  border-right: 4px solid rgb(102, 182, 204);
 }
 
 .card{
