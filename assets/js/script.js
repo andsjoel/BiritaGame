@@ -1,9 +1,13 @@
+
+
 function createCard(cardContent, cardDesk) {
   const divCard = document.createElement('div')
   divCard.innerHTML = `<div class="front">
                       <div class="front__inside">
                         <h3>${cardContent.title}</h3>
                         <p>${cardContent.task}</p>
+                        <em>${cardContent.doses}</em>
+                        <i class='fas fa-beer' style='font-size:36px'></i>
                       </div>
                     </div>
                     <div class="back">  
