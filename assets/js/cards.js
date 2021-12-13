@@ -1,18 +1,13 @@
 const cards = [
   {
     title: 'Mochilão',
-    task: 'Quem já saiu do Brasil beba para comemorar.',
+    task: 'Quem já saiu do Brasil bebe para comemorar.',
     doses: '1'
   },
   {
     title: 'Clone',
     task: 'Escolha alguém para fazer tudo que você fizer durante 3 rodadas.',
     doses:''
-  }, 
-  {
-    title: 'Banheirão',
-    task: 'Leve alguém para o banheiro. Agora para o que...... ',
-    doses: '4'
   },
   {
     title: 'Mão Boba',
