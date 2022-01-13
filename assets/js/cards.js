@@ -1,6 +1,6 @@
 const cards = [
   
-// Cards Normais
+// Cards Normais -------------------------------------------------------------------------------
   {
     title: 'Mochilão',
     task: 'Quem já saiu do Brasil bebe para comemorar.',
@@ -143,7 +143,7 @@ const cards = [
   },
   
   
-//Cards lets get naked
+//Cards lets get naked -------------------------------------------------------------------------------
   
   {
     title: 'Cabide',
@@ -196,7 +196,7 @@ const cards = [
     doses: '5'
   },
   
-//Cards Ousadas
+//Cards Ousadas -------------------------------------------------------------------------------
   
     {
     title: 'Admirador',
@@ -263,8 +263,34 @@ const cards = [
     task: 'Selinho triplo. Escolha mais 2.',
     doses: '4'
   },
+    {
+    title: 'Visitinha',
+    task: 'Escolha alguém para sentar no colo da pessoa que jogou antes de você.',
+    doses: ''
+  },
+    {
+    title: 'Visitinha',
+    task: 'Escolha duas pessoas e quem sentará no colo de quem.',
+    doses: ''
+  },
+    {
+    title: 'Abraço coletivo',
+    task: 'todos devem se abraçar no centro da roda.',
+    doses: ''
+  },
+    {
+    title: 'Trenzinho',
+    task: 'Escolha 3 pessoas para dançarem de trenzinho.',
+    doses: ''
+  },
+    {
+    title: 'Par ou impar',
+    task: 'Jogue par ou impar com alguém. Quem perder, tira uma peça de roupa.',
+    doses: ''
+  },
+  
 
-//Cards +18
+//Cards +18 -------------------------------------------------------------------------------
     {
     title: 'Mão Boba',
     task: 'Mão bem boba no amiguinho da direita.',
@@ -275,11 +301,146 @@ const cards = [
     task: 'Escolha alguém para ficar deitado de barriga pra cima. Escolha outro alguém que deve simular uma boa cavalgada nele.',
     doses: '3'
   },
-
+    {
+    title: 'Simulado',
+    task: 'Escolha duas pessoas e quem deverá simular um sexo oral em quem.',
+    doses: ''
+  },
+    {
+    title: 'Quase lá',
+    task: 'Dê uma boa lambida na virilha de pessoa à sua esquerda.',
+    doses: '4'
+  },
+    {
+    title: 'Quase lá',
+    task: 'Dê uma boa lambida na virilha de pessoa à sua direita.',
+    doses: '4'
+  },
+    {
+    title: 'Caminho do pecado',
+    task: 'Passe a lingua do umbigo até a parte íntima da pessoa à sua esquerda. Se a pessoa estiver de roupa, vai por cima mesmo.',
+    doses: '4'
+  },
+    {
+    title: 'Beijinhos',
+    task: 'Dê vários beijinhos sensuais no pescoço da pessoa a sua esquerda.',
+    doses: '2'
+  },
+    {
+    title: 'Beijinhos',
+    task: 'Dê vários beijinhos sensuais no pescoço da pessoa a sua direita.',
+    doses: '2'
+  },
+    {
+    title: 'Anel',
+    task: 'Diga para quem da roda você daria seu anel.',
+    doses: '2'
+  },
+    {
+    title: 'Pintocoptero',
+    task: 'Faça. Mas só se estiver sem roupa.',
+    doses: ''
+  },
+    {
+    title: 'Pintocoptero',
+    task: 'Faça. Mas só se estiver sem roupa.',
+    doses: '6'
+  },
+    {
+    title: 'Grego?',
+    task: 'Você deve dar um beijinho na bunda de alguém que esteja sem roupa.',
+    doses: '4'
+  },
+    {
+    title: 'Sanduíche',
+    task: 'Escolha 3 pessoas para simularem um sanduíche sexual.',
+    doses: ''
+  },
+    {
+    title: 'Salve-se quem quiser',
+    task: 'Quem quiser recolocar duas peças de roupas deve te dar um beijo quente.',
+    doses: ''
+  },
+    {
+    title: 'Precisa de 2',
+    task: 'Duas pessoas devem te dar um beijo quente. Se ninguém fizer isso, todos devem retirar 3 peças de roupas.',
+    doses: ''
+  },
+    {
+    title: 'Mamamia',
+    task: 'Escolha uma mulher, ela deve escolher alguém para beijar seus seios.',
+    doses: ''
+  },
+    {
+    title: 'Rodinha do beijo',
+    task: 'Você da um selinho no participante da esquerda, ele no próximo e assim por diante.',
+    doses: ''
+  },
+    {
+    title: 'todos se beijam',
+    task: 'Sem exceção. Todos devem dar um selinho em todos.',
+    doses: ''
+  },
+    {
+    title: 'Tira ali rapidinho',
+    task: 'Escolha alguém que ainda esteja de calça. Ele deve ir ao banheiro tirar a cueca ou a calcinha e voltar com ela na mão.',
+    doses: ''
+  },
+    {
+    title: 'Desafio da cueca',
+    task: 'Escolha alguém para fazer o desafio da cueca. Ele deve retirar a cueca sem tirar a calça. No meio da roda.',
+    doses: ''
+  },
+    {
+    title: 'Agora ou nunca',
+    task: 'Escolha alguém para ficar pelado. Se a pessoa aceitar, você deverá ficar também.',
+    doses: ''
+  },
+    {
+    title: 'Beijaaaaa',
+    task: 'Escolha duas pessoas para se beijarem.',
+    doses: ''
+  },
+    {
+    title: 'Novo tinder',
+    task: 'Escolha alguém da roda. Todos devem dar um selinho nessa pessoa caso tenha algum interesse por ela.',
+    doses: ''
+  },
+    {
+    title: 'Mãos quentinhas',
+    task: 'Coloque a mão por dentro da calça das pessoas a sua volta. Uma mão em cada..',
+    doses: ''
+  },
   
+//Cards Eu Nunca -------------------------------------------------------------------------------
   
-//Cards Eu Nunca
+//Cards boas -------------------------------------------------------------------------------
   
+    {
+    title: 'Frio né?',
+    task: 'Vista duas peças de roupas.',
+    doses: ''
+  },
+    {
+    title: 'Roubadinha',
+    task: 'Vista uma peça de roupa que não seja sua.',
+    doses: ''
+  },
+    {
+    title: 'Cadê minha cueca?',
+    task: 'Se estiver sem roupa, pode recolocar todas suas peças de roupa.',
+    doses: ''
+  },
+    {
+    title: 'Ufa',
+    task: 'Pode recolocar 1 peça de roupa.',
+    doses: ''
+  },
+    {
+    title: 'Bom amigo',
+    task: 'Escolha duas pessoas para recolocarem uma peça de roupa.',
+    doses: ''
+  }
 ]
 
 
